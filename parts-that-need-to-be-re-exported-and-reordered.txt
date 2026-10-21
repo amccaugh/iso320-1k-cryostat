@@ -1,0 +1,8 @@
+# Re-export
+- Collar STEP (wrong M12 tap depth)
+- 40k extender (wrong internal radius)
+- 40k plate (bigger hole for cryostat head)
+- Drawings for collar
+- Drawings for sma-kf50-feedthrough
+- g10 supports, due to thickness change of 40k/4k plate
+- Copper slot covers (free fit 4-40 holes)
