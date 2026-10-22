@@ -2,7 +2,15 @@
 - Collar STEP (wrong M12 tap depth)
 - 40k extender (wrong internal radius)
 - 40k plate (bigger hole for cryostat head)
+- 4k plate (bigger hole for cryostat head)
 - Drawings for collar
 - Drawings for sma-kf50-feedthrough
-- g10 supports, due to thickness change of 40k/4k plate
 - Copper slot covers (free fit 4-40 holes)
+- 4k 6-sided copper shield lengths
+- 40k 6-sided copper shield lengths
+
+# Re-order to fix initial version
+- 4k plate (1100 aluminum)
+- 40k plate (1100 aluminum)
+- 4k 6-sided copper shield lengths
+- 40k 6-sided copper shield lengths
